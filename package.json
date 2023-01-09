@@ -1,0 +1,37 @@
+{
+  "name": "squareshift-api",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muralidharanc44/Squareshift-API.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "muralidharan",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "axios": "^1.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "engines": {
+    "node": "14.16.1"
+  },
+  "bugs": {
+    "url": "https://github.com/muralidharanc44/Squareshift-API/issues"
+  },
+  "homepage": "https://github.com/muralidharanc44/Squareshift-API#readme"
+}

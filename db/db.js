@@ -14,16 +14,3 @@ module.exports = async function (url) {
     console.error("Something went wrong", error);
   }
 };
-
-// # mongodb+srv://admin:<password>@cluster0.uf4bt43.mongodb.net/?retryWrites=true&w=majority
-
-
-
-// mongoose.connect(
-//   `mongodb+srv://${username}:${password}@${cluster}.mongodb.net/${dbname}?retryWrites=true&w=majority`, 
-//   {
-//     useNewUrlParser: true,
-//     useFindAndModify: false,
-//     useUnifiedTopology: true
-//   }
-// );
